@@ -16,8 +16,8 @@ Entre las interacciones, se requiere que el proyecto tenga las siguientes funcio
 
 IV FUNCIONALIDAD DEL SISTEMA
 
+![image](https://user-images.githubusercontent.com/112735693/191628306-0a4e27d5-27ad-4008-8527-b49a973ae878.png)
 
-![image](https://user-images.githubusercontent.com/112735693/191384418-321b5ea0-60e6-440f-9df2-eb3587f62380.png)
 
 REQUERIMIENTOS FUNCIONALES
 
