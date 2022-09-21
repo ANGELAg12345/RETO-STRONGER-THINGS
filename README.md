@@ -12,14 +12,25 @@ Realizaremos un CRUD en java donde haremos una conexión con base de datos en SQ
 
 
 Entre las interacciones, se requiere que el proyecto tenga las siguientes funcionalidades
+
+
 IV FUNCIONALIDAD DEL SISTEMA
+
+
 ![image](https://user-images.githubusercontent.com/112735693/191384418-321b5ea0-60e6-440f-9df2-eb3587f62380.png)
 
 REQUERIMIENTOS FUNCIONALES
+
 ![image](https://user-images.githubusercontent.com/112735693/191384510-56906625-eeee-4684-b789-55a08c1c6377.png)
+
+
 Le damos solución a las necesidades del cliente bajo la metodología de SCRUM,donde se realiza un paso a paso en el desarrollo del proyecto,se propone trabajar con una arquitectura del proyecto bajo un modelos de tras capas MVC 
+
 ![image](https://user-images.githubusercontent.com/112735693/191384578-6db1fbd0-0eef-439e-9d21-f70a63ab147c.png)
+
+
 V.Palabras clave: Scrum,desarrollo,metodología ágil,principios,valores.
+
 VI.	ABSTRACT
 
 Currently we can observe the great problem and complex situations that we face in our daily lives whether social, business, political, economic where we must try tools to solve this problem in this case we will cover some tools for our project on which this document is based, consists of the use of the Scrum methodology in the development of the application and agile methodologies that are clearly committed to the continuous improvement. On the road to agility, it is necessary to eliminate the impediments that we find along the way based on the Stranger Things series.
@@ -114,9 +125,14 @@ Poder tener la posibilidad de registrarse para ver contenido.
 Realizaremos un CRUD en java donde haremos una conexión con base de datos en SQL server, en los requerimientos funcionales y no funcionales del sistemas se describirán los servicios que se deben suministrar y las restricciones de sus operación e implementación
 
 VIII.INFOGRAFIA
+
 ![image](https://user-images.githubusercontent.com/112735693/191384924-54a15557-8766-4766-bfe1-c0cea5c8e9d8.png)
+
+
 ![image](https://user-images.githubusercontent.com/112735693/191384943-049c39d7-e560-4927-9106-b2f097ca8a35.png)
+
 X.IMPLEMENTACION DEL PROYECTO  STRANGER THINGS
+
 
 De acuerdo a lo anterior se implementaran una serie de tareas al grupo de trabajo donde por medio de Sprint se verificaran los avances poniendo un limite de tiempo, para satisfacer al cliente con  los requerimientos exigidos.
 
@@ -151,10 +167,15 @@ El desarrollo de la interfase de un videojuego es otra característica o feature
 Por lo general, estas son las actividades que se ponen a prueba al finalizar cada Sprint para ser aprobadas por el Product Owner.
 
 d).de acuerdo a la información anterior presentada tablas de usuario backlog
+
 ![image](https://user-images.githubusercontent.com/112735693/191385033-6ea00488-d328-4e3f-a824-e8551b1bbe94.png)
+
 RELEASE PLAN
+
 ![image](https://user-images.githubusercontent.com/112735693/191385126-dbfa6a83-f37b-44fe-91dc-4ac2aa8c9485.png)
+
 CAPACITY PLANNING
+
 ![image](https://user-images.githubusercontent.com/112735693/191385139-955bad4e-8fe7-4cc0-9a9f-2a1d8feb83bf.png)
 
 IX.BIBLIOGRAFIA
