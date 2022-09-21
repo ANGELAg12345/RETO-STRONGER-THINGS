@@ -166,7 +166,8 @@ IX.BIBLIOGRAFIA
 
 Peralta, J., 2017. ¿Qué es un Modelo de innovación? . [en línea] Medio. Disponible en: <https://japeraltag.medium.com/qu%C3%A9-es-un-modelo-de-innovaci%C3%B3n-innovation-framework-dce2c12099c#:~:text=Un%20Modelo%20de %20innovaci%C3%B3n%20busca,un%20proceso%20de%20desarrollo%20tecnol%C3%B3gico.> [Consultado el 5 de septiembre de 2022].
 
-Cohn, M., 2022. Software Mountain Goat . [en línea] Software de cabra montés. Disponible en: <https://www.mountaingoatsoftware.com/> [Consultado el 10 de septiembre de 2022].
+Cohn, M., 2022. Software Mountain Goat . [en línea] Software de cabra montés. Disponible en: <https://www.mountaingoatsoftware.com/> [Consultado el 10 de septiembre de 2022
+Google.com. 2022. cosas más extrañas - Búsqueda de Google . [online] Available at: <https://www.google.com/search?q=stranger+things&rlz=1C1UEAD_esCO991CO991&sxsrf=ALiCzsZcABhY5f_RAmVNRB5dN76L3wmWQA:1663718589853&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjkr7fcyqT6AhX0RzABHVgTA8wQ_AUoAXoECAIQAw&biw=1366&bih=560&dpr=1#imgrc=P4_tywUecsKkmM> [ Consultado el 20 de septiembre de 2022].
 
 
 
