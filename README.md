@@ -189,6 +189,14 @@ RELEASE PLAN
 
 ![image](https://user-images.githubusercontent.com/112735693/191631238-1e37ebc5-6ac6-4a33-a5ca-6b9aca65c160.png)
 
+CONTRIBUYENTES 
+
+Angela Gomez Parra
+
+DESARROLLADOR 
+
+Angela Gomez Parra
+
 
 IX.BIBLIOGRAFIA
 
