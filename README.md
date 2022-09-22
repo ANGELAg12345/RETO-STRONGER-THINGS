@@ -1,9 +1,24 @@
 # RETO-STRONGER-THINGS
+
+![image](https://user-images.githubusercontent.com/112735693/191632152-c2f16b6a-c7c1-4ebf-a743-4364ac9d700f.png)
+
 El objetivo principal de este trabajo es implementar la metodología SCRUM con la serie Stranger Things una serie estadounidense de suspenso y ciencia ficción se pretenden realizar la descripción general de Metodologías Agiles teniendo en cuenta también los valore y principios de Scrum realizando mejoras y contribuciones a una una aplicación de fans de la empresa INNOVA COLOMBIA.
+
+
 I.	LICENCIAMIENTO CREATIVE COMMONS
+
+
 Las licencias Creative Commons funcionan como alternativa al riego de la propiedad intectual,si bien siempre respetando las leyes nacionales respecto a los derechos de autor, podemos decir que se trata de un estándar común para todo tipo de obras multimedia, con el que sus creadores pueden decidir, de forma general, cómo se pueden usar sus obras en internet e incluso fuera de la red, siempre que quienes la usan respeten los términos de la licencia escogida.
+
+![image](https://user-images.githubusercontent.com/112735693/191632036-c1fb72a6-84b6-4b4b-adef-02a109bfd394.png)
+
+
 II.	Resumen
+
+
 El objetivo principal de este trabajo es implementar la metodología SCRUM con la serie Stranger Things una serie estadounidense de suspenso y ciencia ficción se pretenden realizar la descripción general de Metodologías Agiles teniendo en cuenta también los valore y principios de Scrum realizando mejoras y contribuciones a una una aplicación de fans de la empresa INNOVA COLOMBIA.
+
+
 III	INTRODUCCIÓN
 
  Actualmente podemos observar la gran problemática y complejas situaciones a las que nos enfrentamos en nuestras vidas cotidianas ya sean sociales,empresariales,politicas,economicas donde debemos probar herramientas para resolver dicha problemática en este caso abarcaremos algunas herramientas para nuestro proyecto en el cual se basa este documento, consiste en la utilización de la metodología  Scrum en el desarrollo de la aplicación  y las metodologías  agiles  que apuestan de forma clara por la mejora continua. En el camino hacia la agilidad se necesita eliminar los impedimentos que nos vamos encontrando en el camino basándonos en la serie Stranger Things. Con lo anterior tendremos en cuenta la prestadora de servicios y soluciones tecnológicas Innova Colombia donde tendrá como misión desarrollar una aplicación para sus usuarios donde tengan acceso a la información importante sobre la serie por ejemplo fecha de lanzamiento de un nuevo capitulo de la serie, ver información sobre sus actores preferidos,edad,hobbies,secretos.
@@ -21,7 +36,7 @@ IV FUNCIONALIDAD DEL SISTEMA
 
 REQUERIMIENTOS FUNCIONALES
 
-![image](https://user-images.githubusercontent.com/112735693/191384510-56906625-eeee-4684-b789-55a08c1c6377.png)
+![image](https://user-images.githubusercontent.com/112735693/191633032-057bc951-721c-4cc3-a19e-bb2ffe9d8005.png)
 
 
 Le damos solución a las necesidades del cliente bajo la metodología de SCRUM,donde se realiza un paso a paso en el desarrollo del proyecto,se propone trabajar con una arquitectura del proyecto bajo un modelos de tras capas MVC 
