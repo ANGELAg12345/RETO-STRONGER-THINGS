@@ -172,11 +172,8 @@ d).de acuerdo a la información anterior presentada tablas de usuario backlog
 
 RELEASE PLAN
 
-![image](https://user-images.githubusercontent.com/112735693/191385126-dbfa6a83-f37b-44fe-91dc-4ac2aa8c9485.png)
+![image](https://user-images.githubusercontent.com/112735693/191631238-1e37ebc5-6ac6-4a33-a5ca-6b9aca65c160.png)
 
-CAPACITY PLANNING
-
-![image](https://user-images.githubusercontent.com/112735693/191385139-955bad4e-8fe7-4cc0-9a9f-2a1d8feb83bf.png)
 
 IX.BIBLIOGRAFIA
 
