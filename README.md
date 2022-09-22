@@ -197,6 +197,11 @@ DESARROLLADOR
 
 Angela Gomez Parra
 
+CONCLUCIONES
+
+Fue uno de los retos mas  importantes que he realizado ya que puedo decir que se identifico la gestion productiva para lograr calidad esperada en el producto
+y no es suficien el uso de una metodologia,el nivel de aporte es mucho mas grande y  terminar satisfaciendo la necesidad del cliente un reto mayor.
+
 
 IX.BIBLIOGRAFIA
 
