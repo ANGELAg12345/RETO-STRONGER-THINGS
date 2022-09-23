@@ -23,6 +23,12 @@ INSIGNIAS
 
 INDICE 
 
+*Des cripcion del  proyecto
+* Estado del proyecto
+* Caracteristicas de la aplicacion
+*  Acceso al proyecto
+*  Tecnologias Utilizadas
+
 1.DESCRIPCION DEL PROYECTO 
 
 Realizaremos un CRUD en java donde haremos una conexión con base de datos en SQL server, en los requerimientos funcionales y no funcionales del sistemas se describirán los servicios que se deben suministrar y las restricciones de sus operación e implementación.
@@ -36,18 +42,28 @@ Actualmente podemos observar la gran problemática y complejas situaciones a las
 3.CARACTERISTICAS DE LA APLICACION
 
 *Seguridad
+
+
 *Confiabilidad
+
+
 *Facilidad de uso
+
+
 *Interaccion con el usuario
+
+
 *Interoperabilidad
 
 4.ACCESO AL PROYECTO
 
 5.TECNOLOGIAS UTILIZADAS
 
-CANVA
-EXCEL
-WORD
+*Canva
+
+*Excel
+
+*Word
 
 6.PERSONAS CONTRIBUYENTES
 
