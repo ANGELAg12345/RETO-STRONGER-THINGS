@@ -1,4 +1,4 @@
-# RETO-STRONGER-THINGS
+<h1 align="center"> MI RETO STRONGER THINGS </H1>
 
 ![image](https://user-images.githubusercontent.com/112735693/191632152-c2f16b6a-c7c1-4ebf-a743-4364ac9d700f.png)
 
