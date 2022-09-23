@@ -21,7 +21,31 @@ El objetivo principal de este trabajo es implementar la metodología SCRUM con l
 
 INSIGNIAS 
 
-INDICE 
+##Índice
+
+*[Título e imagen de portada](#Título-e-imagen-de-portada)
+
+*[Insignias](#insignias)
+
+*[Índice](#índice)
+
+*[Descripción del proyecto](#descripción-del-proyecto)
+
+*[Estado del proyecto](#Estado-del-proyecto)
+
+*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+
+*[Acceso al proyecto](#acceso-proyecto)
+
+*[Tecnologías utilizadas](#tecnologías-utilizadas)
+
+*[Personas Contribuyentes](#personas-contribuyentes)
+
+*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+
+* [Licencia](#licencia)
+
+*[Conclusión](#conclusión)
 
 *Des cripcion del  proyecto
 
@@ -33,11 +57,17 @@ INDICE
 
 1.DESCRIPCION DEL PROYECTO 
 
+<h4 align="center">
+:construction: Proyecto en construcción :construction:
+</h4>
+
 Realizaremos un CRUD en java donde haremos una conexión con base de datos en SQL server, en los requerimientos funcionales y no funcionales del sistemas se describirán los servicios que se deben suministrar y las restricciones de sus operación e implementación.
 
 Actualmente podemos observar la gran problemática y complejas situaciones a las que nos enfrentamos en nuestras vidas cotidianas ya sean sociales,empresariales,politicas,economicas donde debemos probar herramientas para resolver dicha problemática en este caso abarcaremos algunas herramientas para nuestro proyecto en el cual se basa este documento, consiste en la utilización de la metodología  Scrum en el desarrollo de la aplicación  y las metodologías  agiles  que apuestan de forma clara por la mejora continua. En el camino hacia la agilidad se necesita eliminar los impedimentos que nos vamos encontrando en el camino basándonos en la serie Stranger Things. Con lo anterior tendremos en cuenta la prestadora de servicios y soluciones tecnológicas Innova Colombia donde tendrá como misión desarrollar una aplicación para sus usuarios donde tengan acceso a la información importante sobre la serie por ejemplo fecha de lanzamiento de un nuevo capitulo de la serie, ver información sobre sus actores preferidos,edad,hobbies,secretos.
 
 2.ESTADO DEL PROYECTO
+
+   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
 ![image](https://user-images.githubusercontent.com/112735693/191873716-ad82b616-cb93-45e5-9591-8cc3a9d52074.png)
 
