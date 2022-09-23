@@ -24,6 +24,8 @@ INSIGNIAS
 INDICE 
 
 *Des cripcion del  proyecto
+
+
 * Estado del proyecto
 * Caracteristicas de la aplicacion
 *  Acceso al proyecto
