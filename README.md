@@ -61,10 +61,11 @@ Actualmente podemos observar la gran problemática y complejas situaciones a las
 
 5.TECNOLOGIAS UTILIZADAS
 
+
 *SQL SERVER
 
 * JAVA SCRIPT 
-* 
+
 
 6.PERSONAS CONTRIBUYENTES
 
