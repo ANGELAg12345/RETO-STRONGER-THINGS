@@ -114,21 +114,6 @@ y no es suficien el uso de una metodologia,el nivel de aporte es mucho mas grand
 
 
 
-
-
-
-IX.BIBLIOGRAFIA
-
-[1] PALACIO, M. A. R. T. A. (2022). SCRUM MASTER TEMARIO TONCAL 1. VERSION 3.0.
-
-[2]Urteaga Pecharromán, A. (2015, septiembre). Aplicación de la metodología de desarrollo ágil Scrum para el desarrollo de un sistema de gestión de empresas. e-archivo.uc3m. https://e-archivo.uc3m.es/bitstream/handle/10016/23750/TFG_Aitor_Urteaga_Pecharroman.pdf?sequence=1&isAllowed=y
-
-
-Peralta, J., 2017. ¿Qué es un Modelo de innovación? . [en línea] Medio. Disponible en: <https://japeraltag.medium.com/qu%C3%A9-es-un-modelo-de-innovaci%C3%B3n-innovation-framework-dce2c12099c#:~:text=Un%20Modelo%20de %20innovaci%C3%B3n%20busca,un%20proceso%20de%20desarrollo%20tecnol%C3%B3gico.> [Consultado el 5 de septiembre de 2022].
-
-Cohn, M., 2022. Software Mountain Goat . [en línea] Software de cabra montés. Disponible en: <https://www.mountaingoatsoftware.com/> [Consultado el 10 de septiembre de 2022
-Google.com. 2022. cosas más extrañas - Búsqueda de Google . [online] Available at: <https://www.google.com/search?q=stranger+things&rlz=1C1UEAD_esCO991CO991&sxsrf=ALiCzsZcABhY5f_RAmVNRB5dN76L3wmWQA:1663718589853&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjkr7fcyqT6AhX0RzABHVgTA8wQ_AUoAXoECAIQAw&biw=1366&bih=560&dpr=1#imgrc=P4_tywUecsKkmM> [ Consultado el 20 de septiembre de 2022].
-
 ![image](https://user-images.githubusercontent.com/112735693/191877752-40fdaefe-1776-474b-86dc-3e12adf75646.png)
 
 22/09/22
