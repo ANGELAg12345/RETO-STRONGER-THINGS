@@ -59,11 +59,10 @@ Actualmente podemos observar la gran problemática y complejas situaciones a las
 
 5.TECNOLOGIAS UTILIZADAS
 
-*Canva
+*SQL SERVER
 
-*Excel
-
-*Word
+* JAVA SCRIPT 
+* 
 
 6.PERSONAS CONTRIBUYENTES
 
@@ -78,7 +77,7 @@ CONCLUCIONES
 * Fue uno de los retos mas  importantes que he realizado ya que puedo decir que se identifico la gestion productiva para lograr calidad esperada en el producto
 y no es suficien el uso de una metodologia,el nivel de aporte es mucho mas grande y  terminar satisfaciendo la necesidad del cliente un reto mayor.
 
-* 
+* Con este proyecto de software se pudo impactar  de manera positiva la manera en que se desarrollan las paginas web  con el fin de presentar todad las funcionalidades  y de esta manera entregar un buen producto al cliente.
 
 
 
