@@ -89,10 +89,12 @@ Actualmente podemos observar la gran problemática y complejas situaciones a las
 
 4.ACCESO AL PROYECTO
 
+
+
 5.TECNOLOGIAS UTILIZADAS
 
 
-*SQL SERVER
+*  SERVER SQL
 
 * JAVA SCRIPT 
 
