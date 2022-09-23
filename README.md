@@ -99,6 +99,13 @@ Peralta, J., 2017. ¿Qué es un Modelo de innovación? . [en línea] Medio. Disp
 Cohn, M., 2022. Software Mountain Goat . [en línea] Software de cabra montés. Disponible en: <https://www.mountaingoatsoftware.com/> [Consultado el 10 de septiembre de 2022
 Google.com. 2022. cosas más extrañas - Búsqueda de Google . [online] Available at: <https://www.google.com/search?q=stranger+things&rlz=1C1UEAD_esCO991CO991&sxsrf=ALiCzsZcABhY5f_RAmVNRB5dN76L3wmWQA:1663718589853&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjkr7fcyqT6AhX0RzABHVgTA8wQ_AUoAXoECAIQAw&biw=1366&bih=560&dpr=1#imgrc=P4_tywUecsKkmM> [ Consultado el 20 de septiembre de 2022].
 
+![image](https://user-images.githubusercontent.com/112735693/191877752-40fdaefe-1776-474b-86dc-3e12adf75646.png)
+
+22/09/22
+
+
+
+
 
 
 
